@@ -7,7 +7,8 @@
 ## Business Understanding
 ---
 King County Realtors need some guidance on assistance clients with recommendations on which home renovations may increase the value of their home prior to listing their home for sale. 
-![king_county_image.png](attachment:king_county_image.png)
+<img src=King_county.webp />
+
 - **Stakeholder:** King County Realtors
 - **Business Problem:** King County Realtors need to provide their clients with guidance on to improve the value of their homes prior to listing. 
 - **Business Question:** Which home renovations might increase the estimated value of their homes, and by what amount?
